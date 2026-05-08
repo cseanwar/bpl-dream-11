@@ -20,7 +20,7 @@ BPL Dream 11 is built for cricket fans who want to experience the thrill of fant
 - Earn free coins via a claim button to unlock more selections
 - Get instant feedback through toast notifications on every action
 
-The project demonstrates core React concepts including component architecture, props, state management with `useState`, conditional rendering, and local data handling — built as part of the **Programming Hero Complete Web Development Bootcamp (Assignment 7)**.
+The project demonstrates core React concepts including component architecture, props, state management with `useState`, conditional rendering, and local data handling.
 
 ---
 
